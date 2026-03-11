@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Pavan R
 
-<!--
-**Pavanraj0120/Pavanraj0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Graduate  
+💻 Backend and Database Enthusiast  
+📍 Mysore, India  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- MySQL
+- SQL
+- C Programming
+- HTML
+- CSS
+- JavaScript
+- IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Student Management System (Python + MySQL)  
+🔹 IoT Smart Home Automation  
+🔹 River Depth Monitoring Robot  
+
+## Currently Learning
+- Advanced MySQL
+- Backend Development
+- REST APIs
+
+## Connect With Me
+Email: pavanraj01202004@gmail.com
